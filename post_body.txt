@@ -1,0 +1,7 @@
+ENTER_POST_BODY HERE
+
+DO_NOT_DELETE_BELOW_THIS_LINE
+-----------------------------
+
+Account | Steem Power | Age (days) | Self vote (%)
+-| -| -| -|

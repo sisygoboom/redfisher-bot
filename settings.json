@@ -1,0 +1,8 @@
+{
+	"days": 1,
+	"posts_per_week": 2,
+	"min_sp": 30,
+	"max_sv": 10,
+	"posting_key": "YOUR_PRIVATE_POSTING_KEY_HERE",
+	"posting_account": "YOUR_ACCOUNT_NAME_HERE"
+}
